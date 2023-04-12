@@ -1,0 +1,2 @@
+Persona (dni, nombre, apellido, fecha de nacimiento, fecha de inicio de actividades, sueldo por hora,
+

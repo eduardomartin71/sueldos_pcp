@@ -42,7 +42,7 @@ background-color: lightGrey;
   font-weight: 660;
 }
 .calendar .mesAno .arrows:hover{
-  font-size: 1.4em;
+  font-size: 1.3em;
   font-weight: 700;
   cursor: default;
 }

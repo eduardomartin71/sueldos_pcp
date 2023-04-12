@@ -13,7 +13,7 @@
         <h4 id="tituloH1">Calendario</h1>
       </div>
       
-      <div class="mesAno">
+      <div class="mesAño">
         <div class="arrows prev-mth">&lt;</div>
         <div class="mth"></div>
         <div class="arrows prev-mth">&gt;</div>
