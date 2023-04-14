@@ -15,7 +15,6 @@ html, body{
 }
 
 /*ESTILO DEL CALENDARIO*/
-
 .calendar{
 border: 2px solid darkGray;
   position: relative;
@@ -25,6 +24,7 @@ background-color: lightGrey;
 }
 
 .calendar .titulo{
+border: 2px solid red;
   margin: 5px 0px;
   text-align: center;
   font-size: 1.2em;
@@ -32,8 +32,9 @@ background-color: lightGrey;
 }
 
 .calendar .mesAno{
+border: 2px solid red;
   display: flex;
-  text-align: center;
+  align-items: center;
   justify-content: : space-between;
 }
 
@@ -42,7 +43,7 @@ background-color: lightGrey;
   font-weight: 660;
 }
 .calendar .mesAno .arrows:hover{
-  font-size: 1.3em;
+  font-size: 1.4em;
   font-weight: 700;
   cursor: default;
 }
